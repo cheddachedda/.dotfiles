@@ -1,0 +1,16 @@
+[user]
+	email = daniel.n.q.nguyen@gmail.com
+	name = Daniel Nguyen
+[core]
+	editor = code -w
+[commit]
+	verbose = true
+	template = /Users/daniel.nguyen/.gitmessage
+[color]
+	ui = true
+[git-mob-config]
+	github-fetch = true
+[git-mob]
+	co-author = Daniel Nguyen <64909385+cheddachedda@users.noreply.github.com>
+[push]
+	autoSetupRemote = true
