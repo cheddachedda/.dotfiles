@@ -3,6 +3,7 @@
 	name = Daniel Nguyen
 [core]
 	editor = code -w
+	pager = less -F -X
 [commit]
 	verbose = true
 	template = /Users/daniel.nguyen/.gitmessage
